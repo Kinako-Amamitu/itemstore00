@@ -8,11 +8,15 @@ namespace itemShop
 {
     internal class Item
     {
-        public Item(int v1, string v2, int v3)
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Price { get; set; }
+
+        public Item(int id, string name, int price)
         {
-            new Item(1, "ひのきのぼう", 80);
-            new Item(2, "こんぼう", 300);
-            new Item(3, "銅の剣", 500);
+            this.Id = id;
+            this.Name = name;
+            this.Price = price;
         }
 
     }
