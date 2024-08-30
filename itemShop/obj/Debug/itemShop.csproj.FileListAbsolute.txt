@@ -5,3 +5,10 @@ C:\Users\student\Documents\Visual Studio 2022\Projects\itemShop\bin\Debug\itemSh
 C:\Users\student\Documents\Visual Studio 2022\Projects\itemShop\bin\Debug\itemShop.pdb
 C:\Users\student\Documents\Visual Studio 2022\Projects\itemShop\obj\Debug\itemShop.exe
 C:\Users\student\Documents\Visual Studio 2022\Projects\itemShop\obj\Debug\itemShop.pdb
+C:\Users\student\git\itemstore00\itemShop\bin\Debug\itemShop.exe.config
+C:\Users\student\git\itemstore00\itemShop\bin\Debug\itemShop.exe
+C:\Users\student\git\itemstore00\itemShop\bin\Debug\itemShop.pdb
+C:\Users\student\git\itemstore00\itemShop\obj\Debug\itemShop.csproj.AssemblyReference.cache
+C:\Users\student\git\itemstore00\itemShop\obj\Debug\itemShop.csproj.CoreCompileInputs.cache
+C:\Users\student\git\itemstore00\itemShop\obj\Debug\itemShop.exe
+C:\Users\student\git\itemstore00\itemShop\obj\Debug\itemShop.pdb
